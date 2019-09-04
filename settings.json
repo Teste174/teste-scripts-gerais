@@ -1,0 +1,9 @@
+{
+    "blacklists": {
+        "descriptions": ["descrição1", "descrição2"],
+        "files": ["arquivo1", "arquivo2"]
+    },
+    "preferences": {
+        "textEditor": "gnome-terminal -- /usr/bin/editor $0"
+    }
+}
